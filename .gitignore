@@ -22,3 +22,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 pokelixir-*.tar
 
+# Live Server
+.elixir_ls/
+
+# OS X files
+.DS_Store
